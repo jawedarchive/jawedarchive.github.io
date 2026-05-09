@@ -5,8 +5,22 @@
     "newid":"jNQXAC9IVRw",
     "archive1":"https://web.archive.org/web/20060321123838if_/http://www.youtube.com/videos_list.php?user=jawed",
     "archive2":"https://github.com/ddd/tubevault/issues/3",
+    "archive3":null,
     "description":"The first video on YouTube",
-    "videopage":"jNQXAC9IVRw.mp4"
+    "epoch":1114313232,
+    "videopage":"jNQXAC9IVRw.webm",
+    "thumbnail":"jNQXAC9IVRw.jpg"
+  },
+  {
+    "title":"Rolling down a hill",
+    "oldid":"3ecwdIm2QCE",
+    "newid":"nGzAI5pLbMY",
+    "archive1":"https://web.archive.org/web/20051103024600if_/http://www.youtube.com:80/watch.php?v=3ecwdIm2QCE&amp;search=snow+longisland+water",
+    "archive2":"https://web.archive.org/web/20060321123838if_/http://www.youtube.com/videos_list.php?user=jawed",
+    "archive3":null,
+    "description":"i almost puked rolling down this hill!",
+    "epoch":1114316123,
+    "videopage":"nGzAI5pLbMY.mp4",
+    "thumbnail":"nGzAI5pLbMY.jpg"
   }
-  
 ]
