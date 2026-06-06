@@ -5,12 +5,13 @@
     "newid":"jNQXAC9IVRw",
     "archive1":"https://web.archive.org/web/20060321123838if_/http://www.youtube.com/videos_list.php?user=jawed",
     "archive2":"https://github.com/ddd/tubevault/issues/3",
-    "archive3":null,
-    "description":"The first video on YouTube",
+    "archive3":"https://web.archive.org/web/20061212233102/youtube.com/watch?v=jNQXAC9IVRw",
+    "description":"The first video on YouTube.",
     "epoch":1114313232,
     "date":"24 Apr 2005",
+    "duration":"0:18",
     "videopage":"jNQXAC9IVRw.webm",
-    "thumbnail":"jNQXAC9IVRw.jpg"
+    "thumbnail":"https://web.archive.org/web/20070512081040id_/http://img.youtube.com/vi/jNQXAC9IVRw/2.jpg"
   },
   {
     "title":"Rolling down a hill",
@@ -21,9 +22,10 @@
     "archive3":null,
     "description":"i almost puked rolling down this hill!",
     "epoch":1114316123,
+    "duration":"0:16",
     "date":"24 Apr 2005",
     "videopage":"nGzAI5pLbMY.mp4",
-    "thumbnail":"nGzAI5pLbMY.jpg"
+    "thumbnail":"https://web.archive.org/web/0id_/http://sjc-static1.sjc.youtube.com/vi/nGzAI5pLbMY/2.jpg"
   },
   {
     "title":"Palm drive",
@@ -34,8 +36,23 @@
     "archive3":null,
     "description":"I'm speeding down this road where I've gotten a ticket before =)",
     "epoch":null,
+    "duration":"0:15"
     "date":"24 Apr 2005",
     "videopage":null,
-    "thumbnail":"Zx4DA4xg9IM.jpg"
+    "thumbnail":"https://web.archive.org/web/0id_/http://sjl-static3.sjl.youtube.com/vi/Zx4DA4xg9IM/2.jpg"
+  },
+  {
+    "title":"biking up kings mountain",
+    "oldid":"zkrhW-HSH9E",
+    "newid":"zgLGHXYYsFM",
+    "archive1":"https://web.archive.org/web/20051113225458/http://www.youtube.com/results.php?search=biking",
+    "archive2":"https://web.archive.org/web/20060321123838if_/http://www.youtube.com/videos_list.php?user=jawed",
+    "archive3":null,
+    "description":"AAaaaarggh steep!! This is Kings Mountain Road in Woodside, CA.",
+    "epoch":null,
+    "duration":null,
+    "date":"27 Apr 2005",
+    "videopage":null,
+    "thumbnail":"https://web.archive.org/web/0id_/http://sjl-static3.sjl.youtube.com/vi/Zx4DA4xg9IM/2.jpg"
   }
 ]
