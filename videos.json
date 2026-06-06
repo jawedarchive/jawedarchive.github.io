@@ -8,6 +8,7 @@
     "archive3":null,
     "description":"The first video on YouTube",
     "epoch":1114313232,
+    "date":"24 Apr 2005",
     "videopage":"jNQXAC9IVRw.webm",
     "thumbnail":"jNQXAC9IVRw.jpg"
   },
@@ -20,7 +21,21 @@
     "archive3":null,
     "description":"i almost puked rolling down this hill!",
     "epoch":1114316123,
+    "date":"24 Apr 2005",
     "videopage":"nGzAI5pLbMY.mp4",
     "thumbnail":"nGzAI5pLbMY.jpg"
+  },
+  {
+    "title":"Palm drive",
+    "oldid":null,
+    "newid":"Zx4DA4xg9IM",
+    "archive1":"https://web.archive.org/web/20061222074232/http://www.youtube.com/results?search_type=search_videos&search_query=jaw&search_sort=&search_category=1",
+    "archive2":null,
+    "archive3":null,
+    "description":"I'm speeding down this road where I've gotten a ticket before =)",
+    "epoch":null,
+    "date":"24 Apr 2005",
+    "videopage":null,
+    "thumbnail":"Zx4DA4xg9IM.jpg"
   }
 ]
